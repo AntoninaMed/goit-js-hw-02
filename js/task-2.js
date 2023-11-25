@@ -1,6 +1,5 @@
 "use strict";
 function formatMessage(message, maxLength){
-    let 
     if (message.length <= maxLength) {
         return message;
         
